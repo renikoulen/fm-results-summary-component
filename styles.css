@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+main{
+	background-color: red;
+}
+
+.results {
+  background-color: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
